@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Shortstack", "raine", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"raine",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "arcade",
+
+	"storyName": "Karaoke Night",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

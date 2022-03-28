@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Raine Idle",
+	"image": "Menu_Raine",
+	"position": [
+		110,
+		10
+	],
+	"scale": 1,
+	"confirm_anim": "M Raine Idle"
+}
